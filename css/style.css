@@ -1,0 +1,99 @@
+body {
+  background-color: rgb(140, 160, 184);
+  margin: 0;
+  font-family: "Spicy Rice", cursive;
+  font-size: 14px;
+}
+
+.contenedor {
+  text-align: center;
+}
+
+header {
+
+  padding: 20px;
+}
+
+header img {
+  border-radius: 100%;
+  width: 200px;
+  border: 2px solid rgb(59, 92, 134);
+  box-shadow: 0 3px 5px rgba(68, 29, 97, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+header h1 {
+  color: rgb(23, 21, 21);
+  margin: 10px 0 0;
+}
+
+nav a:link,
+nav a:visited {
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+
+nav a:link img {
+  max-width: 30px;
+}
+
+.descripcion {
+  font-family: "Spicy Rice", cursive;
+  padding: 0 25px;
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+ul li a:link,
+ul li a:visited {
+  font-family: "Spicy Rice", cursive;
+  background-color: rgb(135, 138, 173);
+  font-size: 18px;
+  display: block;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  border: 1px solid rgb(26, 25, 25);
+  box-shadow: -2px 2px 1px rgba(0, 0, 0, 0.35);
+  color: rgb(49, 47, 47);
+  border-radius: 35px;
+}
+
+ul li a:hover,
+ul li a:active {
+  background-color: antiquewhite;
+  box-shadow: -2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+hr {
+  background-color: #aaa;
+  border: 0;
+  height: 1px;
+  max-width: 90%;
+  margin: 20px auto;
+}
+
+
+footer {
+  font-family: "Spicy Rice",
+    cursive;
+}
+
+/* footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+} */
