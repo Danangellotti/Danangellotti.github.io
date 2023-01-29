@@ -1,7 +1,7 @@
 body {
   background-color: rgb(140, 160, 184);
   margin: 0;
-  font-family: "Spicy Rice", cursive;
+  font-family: "Spicy Rice", ;
   font-size: 14px;
 }
 
@@ -43,7 +43,7 @@ nav a:link img {
 }
 
 .descripcion {
-  font-family: "Spicy Rice", cursive;
+  font-family: "Spicy Rice";
   padding: 0 25px;
   max-width: 360px;
   margin: 0 auto;
@@ -59,7 +59,7 @@ ul {
 
 ul li a:link,
 ul li a:visited {
-  font-family: "Spicy Rice", cursive;
+  font-family: "Spicy Rice";
   background-color: rgb(135, 138, 173);
   font-size: 18px;
   display: block;
@@ -88,8 +88,7 @@ hr {
 
 
 footer {
-  font-family: "Spicy Rice",
-    cursive;
+  font-family: "Spicy Rice";
 }
 
 /* footer {
