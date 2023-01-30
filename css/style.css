@@ -9,6 +9,7 @@ body {
   text-align: center;
 }
 
+
 header {
 
   padding: 20px;
@@ -17,8 +18,8 @@ header {
 header img {
   border-radius: 100%;
   width: 200px;
-  border: 2px solid rgb(59, 92, 134);
-  box-shadow: 0 3px 5px rgba(68, 29, 97, 0.35);
+  border: 2px solid rgb(30, 36, 44);
+  box-shadow: 0 3px 5px rgba(14, 8, 19, 0.35);
 }
 
 * {
