@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(140, 160, 184);
+  background-color: rgb(120, 164, 216);
   margin: 0;
   font-family: "Spicy Rice", ;
   font-size: 14px;
@@ -67,7 +67,7 @@ ul {
 ul li a:link,
 ul li a:visited {
   font-family: "Spicy Rice";
-  background-color: rgb(135, 138, 173);
+  background-color: rgb(155, 120, 158);
   font-size: 18px;
   display: block;
   padding: 10px;
