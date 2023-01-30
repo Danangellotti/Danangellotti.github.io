@@ -9,6 +9,11 @@ body {
   text-align: center;
 }
 
+h1 {
+  font-size: medium;
+  color: black;
+}
+
 
 header {
 
@@ -17,10 +22,11 @@ header {
 
 header img {
   border-radius: 100%;
-  width: 200px;
+  width: 150px;
   border: 2px solid rgb(30, 36, 44);
   box-shadow: 0 3px 5px rgba(14, 8, 19, 0.35);
 }
+
 
 * {
   box-sizing: border-box;
@@ -54,7 +60,7 @@ ul {
   padding: 0;
   list-style: none;
 
-  max-width: 360px;
+  max-width: 260px;
   margin: 0 auto;
 }
 
