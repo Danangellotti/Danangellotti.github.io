@@ -1,7 +1,7 @@
 body {
   background-color: rgb(120, 164, 216);
   margin: 0;
-  font-family: "Spicy Rice", ;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
 
@@ -50,7 +50,7 @@ nav a:link img {
 }
 
 .descripcion {
-  font-family: "Spicy Rice";
+  font-family: 'Montserrat', sans-serif;
   padding: 0 25px;
   max-width: 360px;
   margin: 0 auto;
@@ -66,7 +66,7 @@ ul {
 
 ul li a:link,
 ul li a:visited {
-  font-family: "Spicy Rice";
+  font-family: 'Montserrat', sans-serif;
   background-color: rgb(155, 120, 158);
   font-size: 18px;
   display: block;
@@ -95,8 +95,9 @@ hr {
 
 
 footer {
-  font-family: "Spicy Rice";
+  font-family: 'Montserrat', sans-serif;
 }
+
 
 /* footer {
   position: fixed;
