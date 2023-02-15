@@ -44,6 +44,7 @@ nav .nav-right-section .menu-icon {
   height: 25px;
 }
 
+
 nav .nav-right-section img {
   border-radius: 50%;
   margin-left: 10px;
@@ -139,6 +140,7 @@ main.main-buttons button:hover {
   color: #202124;
 }
 
+
 footer {
   width: 100%;
   height: 50px;
@@ -150,6 +152,8 @@ footer {
   background-color: #f2f2f2;
   border-top: 1px solid #e4e4e4;
 }
+
+
 
 footer ul {
   margin: 10px;
