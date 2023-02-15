@@ -1,5 +1,6 @@
 body {
   background-color: rgb(120, 164, 216);
+  /*background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);*/
   margin: 0;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
