@@ -34,7 +34,8 @@ header {
 .seccion {
   margin-top: 0px;
   border: 1px solid rgb(241, 242, 219);
-  background: rgb(239, 240, 237);
+  /*background: rgb(239, 240, 237);*/
+  background-image: url(imag.png/Sierras_min.jpeg);
   border-radius: 15px;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 5);
   padding: 10px;
