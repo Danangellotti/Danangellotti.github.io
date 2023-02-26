@@ -16,11 +16,11 @@ let items = document.getElementById("items");
 //el detalle
 let eldetalle = document.getElementById("eldetalle");
 
-let productos = 0;
+let tareas = 0;
 
 cerrar.addEventListener("click", () => {
   //click para botones q estan fuera del formulario
-  if (productos > 0) {
+  if (tareas > 0) {
     formulario.classList.add("dnone");
     listado.classList.remove("dnone");
     home.classList.add("dnone");
@@ -66,7 +66,7 @@ const verDetalle = (titulo, categoria, descripcion) => {
 
 const addItem = (titulo, categoria, descripcion) => {
   //se crea una variable q como valor tiene un fragmento de html
-  let item = `<li id="item-${productos}">
+  let item = `<li id="item-${tareas}">
     <img src="${categoria}">
     <h3>${titulo}</h3>
     <button onclick="verDetalle('${titulo}', '${categoria}', '${descripcion}')">Ver mas</button>
@@ -83,7 +83,7 @@ form.addEventListener("submit", (e) => {
   let titulo = e.target.titulo.value;
   let categoria = e.target.categoria.value;
   let descripcion = e.target.descripcion.value;
-  productos++;
+  tareas++;
 
   addItem(titulo, categoria, descripcion);
   formulario.classList.add("dnone");
