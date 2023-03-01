@@ -75,7 +75,7 @@ header {
   display: none;
 }
 
-.fab {
+.sup {
   position: fixed;
   bottom: 30px;
   right: 30px;
@@ -129,28 +129,36 @@ form textarea {
   padding: 14px 10px;
   margin: 3px;
   background-color: #a3bdd4;
-  border: 0px solid #cfd8dc;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
 }
 
 .btn-verde {
   padding: 14px 10px;
   margin: 3px;
   background-color: #61c1b7;
-  border: 0px solid #cfd8dc;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+
 }
 
 .btn-naranja {
   padding: 14px 10px;
   margin: 3px;
   background-color: #c08425;
-  border: 0px solid #cfd8dc;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+
 }
 
 .btn-rojo {
   padding: 14px 10px;
   margin: 3px;
   background-color: #e15385;
-  border: 0px solid #cfd8dc;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+
+
 }
 
 
@@ -162,7 +170,7 @@ form textarea {
 
 button {
   border-radius: 5px;
-  border: 1px solid rgb(221, 85, 131);
+  border: 1px solid rgb(33, 31, 32);
   padding: 5px;
   margin: 15px;
   background: rgb(243, 139, 226);
@@ -273,7 +281,7 @@ ul {
     padding: 50px;
   }
 
-  .fab {
+  .sup {
     position: fixed;
     bottom: 50px;
     right: 30px;
@@ -310,7 +318,7 @@ ul {
     padding: 10px;
   }
 
-  .fab {
+  .sup {
     position: fixed;
     bottom: 60px;
     right: 30px;
