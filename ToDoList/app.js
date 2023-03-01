@@ -59,7 +59,6 @@ const addItem = (titulo, categoria, descripcion) => {
     <img src="${categoria}">
     <h3>${titulo}</h3>
     <button onclick="verDetalle('${titulo}', '${categoria}', '${descripcion}')">Ver  mas</button>
-    <button onclick="verDetalle('${titulo}', '${categoria}', '${descripcion}')">Borrar</button>
  </li>`;
 
   items.innerHTML += item;
