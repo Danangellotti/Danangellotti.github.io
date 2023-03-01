@@ -58,7 +58,7 @@ const addItem = (titulo, categoria, descripcion) => {
   let item = `<li id="item-${tareas}">
     <img src="${categoria}">
     <h3>${titulo}</h3>
-    <button onclick="verDetalle('${titulo}', '${categoria}', '${descripcion}')">Ver detalle</button>
+    <button onclick="verDetalle('${titulo}', '${categoria}', '${descripcion}')">Ver  mas</button>
     <button onclick="verDetalle('${titulo}', '${categoria}', '${descripcion}')">Borrar </button>
  </li>`;
 
