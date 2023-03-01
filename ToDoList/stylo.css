@@ -129,16 +129,12 @@ form textarea {
   padding: 14px 10px;
   margin: 3px;
   background-color: #a3bdd4;
-  border-bottom-left-radius: 1px;
-  border-top-left-radius: 1px;
 }
 
 .btn-verde {
   padding: 14px 10px;
   margin: 3px;
   background-color: #61c1b7;
-  border-bottom-left-radius: 1px;
-  border-top-left-radius: 1px;
 
 }
 
@@ -146,19 +142,12 @@ form textarea {
   padding: 14px 10px;
   margin: 3px;
   background-color: #c08425;
-  border-bottom-left-radius: 1px;
-  border-top-left-radius: 1px;
-
 }
 
 .btn-rojo {
   padding: 14px 10px;
   margin: 3px;
   background-color: #e15385;
-  border-bottom-left-radius: 1px;
-  border-top-left-radius: 1px;
-
-
 }
 
 
