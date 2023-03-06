@@ -125,30 +125,40 @@ form textarea {
   color: rgb(243, 139, 226);
 }
 
-.btn-gris {
-  padding: 14px 10px;
-  margin: 3px;
+
+#cuadradito {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 8px;
+}
+
+#cuadradito:hover {
+  cursor: pointer;
+}
+
+#cuadradito:checked {
+  transform: scale(1.2);
+  border: 2px solid #7d7b7b;
+}
+
+.gris {
   background-color: #a3bdd4;
 }
 
-.btn-verde {
-  padding: 14px 10px;
-  margin: 3px;
+.verde {
   background-color: #61c1b7;
-
 }
 
-.btn-naranja {
-  padding: 14px 10px;
-  margin: 3px;
+.naranja {
   background-color: #c08425;
 }
 
-.btn-rojo {
-  padding: 14px 10px;
-  margin: 3px;
+.rojo {
   background-color: #e15385;
 }
+
+
 
 
 
