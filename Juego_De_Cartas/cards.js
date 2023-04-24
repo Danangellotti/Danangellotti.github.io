@@ -1,7 +1,7 @@
 let cartas = new Array(
   {
     img: "imagenes/ancla.png",
-    titulo: "El loco",
+    titulo: "El ancla",
     descripcion: "Potencial ✷ Inocencia ✷ Un nuevo viaje",
     frase:
       "El Loco se balancea al borde de las nubes, preparándose para saltar a lo desconocido.",
@@ -10,7 +10,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/anillos.png",
-    titulo: "La Maga",
+    titulo: "Anillos",
     descripcion: "Manifestación ✷  Creación ✷ Conducto",
     frase: "La Maga transforma el poder de las estrellas en magia terrenal.",
     score: 2,
@@ -18,7 +18,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/clouds.png",
-    titulo: "La suma Sacerdotiza",
+    titulo: "Nubes",
     descripcion: "Intuición ✷ Conocimiento interno ✷ Recepción ",
     frase:
       "Los secretos del universo están dentro de ti, solo necesitas viajar dentro.",
@@ -27,7 +27,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/corazon.png",
-    titulo: "La Emperatriz",
+    titulo: "Corazón",
     descripcion: "Abundancia ✷ Placer ✷ Nutrición",
     frase:
       "Estamos hechos de los mismos materiales hermosos que la abundante naturaleza que nos rodea.",
@@ -36,7 +36,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/escaleras.png",
-    titulo: "El Emperador",
+    titulo: "Escaleras",
     descripcion: "Liderazgo ✷ Estabilidad ✷ Comunidad",
     frase:
       "El Emperador hace brillar su luz guía más brillante y ayuda a otros a hacer lo mismo.",
@@ -45,7 +45,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/estrellas.png",
-    titulo: "El Hierofante",
+    titulo: "Estrellas",
     descripcion: "Creencias ✷ Conocimiento Sagrado ✷ Ritual",
     frase:
       "Cuando exploras tus creencias, ingresas a la escuela de El Hierofante.",
@@ -54,7 +54,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/flores.png",
-    titulo: "Los Amantes",
+    titulo: "Flores",
     descripcion: "Amor ✷ Conexión ✷ Elección ",
     frase:
       "El Sol y la Luna se persiguen por el cielo en una devoción y adoración sin fin.",
@@ -63,7 +63,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/libro.png",
-    titulo: "El Carro",
+    titulo: "El libro",
     descripcion: "Triunfo ✷ Voluntad ✷ Logro",
     frase:
       "En lo alto de un corcel mágico, una joven disfruta del resplandor de un triunfo. ",
@@ -72,7 +72,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/limpieza.png",
-    titulo: "Fuerza",
+    titulo: "Limpieza",
     descripcion: "Coraje ✷ Compasión ✷ Confianza ",
     frase: "Tu salvajismo es tu aliado. ",
     score: 9,
@@ -80,7 +80,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/llave.png",
-    titulo: "El Ermitaño",
+    titulo: "Llave",
     descripcion: "Soledad ✷ Reflexión ✷ Iluminación",
     frase:
       "Con su linterna sagrada, The Ermitaño ilumina solo lo que está   justo en frente de ella.",
@@ -89,7 +89,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/luna.png",
-    titulo: "La fortuna",
+    titulo: "La Luna",
     descripcion: "Ciclos ✷ Cambiar ✷ Permanecer Presente",
     frase:
       "La Rueda de la Fortuna es un símbolo de cambio que gira constantemente. ",
@@ -98,7 +98,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/montaña.png",
-    titulo: "Justicia",
+    titulo: "Montaña",
     descripcion: "Verdad ✷ Equidad ✷ Responsabilidad",
     frase:
       "Para que se haga justicia, la verdad debe estar en el centro de sus intenciones.",
@@ -107,7 +107,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/moto.png",
-    titulo: "El colgado",
+    titulo: "Motomami",
     descripcion: "Entrega ✷ Quietud ✷ Comprensión  ",
     frase: "Mantenga los ojos abiertos a través de los desafíos que enfrenta.",
     score: 13,
@@ -133,7 +133,7 @@ let cartas = new Array(
 
   {
     img: "imagenes/pajaros.png",
-    titulo: "El Diablo",
+    titulo: "El Pajaro",
     descripcion: "Sombra ✷ Poder ✷ Libertad ",
     frase: "Tu sombra-yo tiene un gran poder.",
     score: 16,
@@ -141,7 +141,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/ratas.png",
-    titulo: "La Torre",
+    titulo: "La Rata",
     descripcion:
       "Destrucción de viejas creencias ✷ Trastorno ✷ Transformación  ",
     frase: "Las cosas que ya no te sirven serán despojadas con fuerza cósmica.",
@@ -150,7 +150,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/serpiente.png",
-    titulo: "La Estrella",
+    titulo: "La Serpiente",
     descripcion: "Sanación ✷ Esperanza ✷ Renovación",
     frase: "Las estrellas brillan como destellos de esperanza en la oscuridad.",
     score: 18,
@@ -158,7 +158,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/sol.png",
-    titulo: "La Luna",
+    titulo: "El Sol",
     descripcion: "Subconsciente ✷ Cosas Ocultas ✷ Visiones",
     frase:
       "La Luna flota en el vacío, convirtiéndose en testigo de cosas misteriosas envueltas en la oscuridad.",
@@ -167,7 +167,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/velero.png",
-    titulo: "El Sol",
+    titulo: "El Velero",
     descripcion: "Despertar ✷ Valor ✷ Calidez",
     frase:
       "El Sol derrama sobre vosotros su luz amorosa, revelando vuestra verdad.",
@@ -176,7 +176,7 @@ let cartas = new Array(
   },
   {
     img: "imagenes/persona.png",
-    titulo: "Sentencia",
+    titulo: "Persona",
     descripcion: "Revelación ✷ Perdón ✷ Aceptación ",
     frase:
       "Un heraldo hermoso hace sonar la trompeta del Juicio, llamándote a encontrarte con tu verdadero yo.",
